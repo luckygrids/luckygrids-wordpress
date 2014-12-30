@@ -2,7 +2,7 @@
 Donate link: http://luckygrids.io/donate
 Tags: luckygrids, embed, shortcode
 Requires at least: 2.5
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 0.1.0
 License: Apache2
 License URI: http://luckygrids.io/wordpress/license
