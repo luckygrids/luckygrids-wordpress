@@ -7,7 +7,7 @@
  * Author: Ryan Burnette
  * Author URI: http://ryanburnette.com
  * Requires at least: 2.5
- * Tested up to: 4.0.1
+ * Tested up to: 4.1
  */
 
 function luckygrids_embed_code($id) {
